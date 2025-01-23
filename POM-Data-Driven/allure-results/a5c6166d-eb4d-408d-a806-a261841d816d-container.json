@@ -1,0 +1,1 @@
+{"uuid":"a5c6166d-eb4d-408d-a806-a261841d816d","name":"testcases.RingTest.setUp","children":["eb1ee330-89a4-48ba-b4d9-5b4837a1e71b"],"description":"","befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1737645851677,"stop":1737645860900}],"afters":[],"start":1737645851676,"stop":1737645860900}

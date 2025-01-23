@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="TestSuites" parallel="false">
+
+    <test name="SignUpAndLoginTest">
+        <classes>
+            <class name="testcases.SignUpTest" />
+            <class name="testcases.LoginTest" />
+            <class name="testcases.HomeTest" />
+            <class name="testcases.RingTest" />
+        </classes>
+    </test>
+    
+</suite>
